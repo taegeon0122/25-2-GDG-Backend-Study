@@ -30,8 +30,7 @@ HTTP(HyperText Transfer Protocol) : 웹에서 데이터를 주고받는 Server-C
     2. 비연결성(Connectionless) : Client는 Server와의 **연결을 유지X**
 
 ## Client 요청
-
-![image.png](attachment:ea70f39d-2e3a-4d6c-8d5b-85ef64c39897:image.png)
+<img width="628" height="286" alt="image" src="https://github.com/user-attachments/assets/57ab76b2-bb84-4dee-bcbd-e811d8f8de7c" />
 
 - HTTP 요청 구조
     1. Start Line : **요청 메서드**, 요청할 경로, HTTP 버전 정보 포함
@@ -45,8 +44,7 @@ HTTP(HyperText Transfer Protocol) : 웹에서 데이터를 주고받는 Server-C
     5. DELETE : 리소스 **삭제**
 
 ## Server 응답
-
-![IMG_F85509C7F87C-1.jpeg](attachment:baa1e84b-e440-4640-b840-75145333a4ad:IMG_F85509C7F87C-1.jpeg)
+<img width="628" height="286" alt="image" src="https://github.com/user-attachments/assets/e8c33089-1fd7-4896-a98c-9c2125c822f6" />
 
 - HTTP 응답 구조
     1. Status Line : **HTTP 버전, HTTP 상태 코드, 상태 메시지**
